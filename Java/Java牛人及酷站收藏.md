@@ -5,7 +5,13 @@
 
 *程序性能方面文章多些*		[http://www.yebangyu.org/](http://www.yebangyu.org/)
 
-*熊猫大仙的博客*   [http://www.pandablog.cn/](http://www.pandablog.cn/)
+*乒乓狂魔---携程JavaEE开发者*	
+
+[http://lgbolgger.iteye.com/](http://lgbolgger.iteye.com/)
+
+[http://my.oschina.net/pingpangkuangmo?ft=blog](http://my.oschina.net/pingpangkuangmo?ft=blog)
+
+*一些Java后端,不错的技术文章*	[http://www.jasongj.com/](http://www.jasongj.com/)
 
 ## 淘宝系牛人
 *阿里正祥*	[http://blog.sina.com.cn/kern0612](http://blog.sina.com.cn/kern0612)
@@ -23,5 +29,7 @@
 
 ## 酷站
 *并发编程网*	[http://ifeve.com/](http://ifeve.com/)
+
+*importnew*	
 
 *HelloJava 公众号文章*	[http://hellojava.info/](http://hellojava.info/)

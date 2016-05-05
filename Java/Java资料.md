@@ -26,3 +26,11 @@
 *java中的一些惯用法总结*	[https://segmentfault.com/a/1190000003987391](https://segmentfault.com/a/1190000003987391)
 
 *LogBack入门实践*	[https://segmentfault.com/a/1190000004693427](https://segmentfault.com/a/1190000004693427)
+
+### 2016-05-02
+*8 个最好的 Java RESTful 框架*	[http://www.codeceo.com/article/8-best-java-restful-framework.html](http://www.codeceo.com/article/8-best-java-restful-framework.html)
+
+*20年前GoF提出的设计模式，对这个时代是否还有指导意义？*	[http://www.infoq.com/cn/articles/design-patterns-proposed-by-gof-20-years-ago](http://www.infoq.com/cn/articles/design-patterns-proposed-by-gof-20-years-ago)
+
+### 2016-05-03
+*从原理来理解继承关系的类初始化和实例化的顺序*	[http://my.oschina.net/xpbug/blog/111371](http://my.oschina.net/xpbug/blog/111371)
