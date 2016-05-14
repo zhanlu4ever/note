@@ -34,3 +34,22 @@
 
 ### 2016-05-03
 *从原理来理解继承关系的类初始化和实例化的顺序*	[http://my.oschina.net/xpbug/blog/111371](http://my.oschina.net/xpbug/blog/111371)
+
+### 2016-05-06
+*Java Annotation 必须掌握的特性*	[http://www.codeceo.com/article/java-annotation-features.html](http://www.codeceo.com/article/java-annotation-features.html)
+
+*现代java开发指南 第二部分*	[http://www.kuqin.com/shuoit/20160427/351767.html](http://www.kuqin.com/shuoit/20160427/351767.html)
+
+*运行时动态增加枚举类型*	[http://www.importnew.com/19549.html](http://www.importnew.com/19549.html)
+
+### 2016-05-10
+*effective java 读书笔记* [https://github.com/Piasy/notes/blob/master/Android-Java/EffectiveJava.md](https://github.com/Piasy/notes/blob/master/Android-Java/EffectiveJava.md)
+
+*Spring面试问答Top 25*	[http://www.importnew.com/15851.html](http://www.importnew.com/15851.html)
+
+### 2016-05-14
+**Log4j2架构分析与实战** [http://my.oschina.net/xianggao/blog/523020?fromerr=bgmdbCsk](http://my.oschina.net/xianggao/blog/523020?fromerr=bgmdbCsk)
+
+**2016年排名Top 100的Java类库**	[http://www.hollischuang.com/archives/1544](http://www.hollischuang.com/archives/1544)
+
+**开发者头条--Java干货分享**	[http://toutiao.io/subjects/51515](http://toutiao.io/subjects/51515)
