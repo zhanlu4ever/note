@@ -53,3 +53,8 @@
 **2016年排名Top 100的Java类库**	[http://www.hollischuang.com/archives/1544](http://www.hollischuang.com/archives/1544)
 
 **开发者头条--Java干货分享**	[http://toutiao.io/subjects/51515](http://toutiao.io/subjects/51515)
+
+### 2016-05-15
+**Tomcat源码系列**	[http://toutiao.io/subjects/53054](http://toutiao.io/subjects/53054)
+
+**生活中的Paxos，原来你我都在使用——对Paxos生活化的解读**	[http://hedengcheng.com/?p=970](http://hedengcheng.com/?p=970)
