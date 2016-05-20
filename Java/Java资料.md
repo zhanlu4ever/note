@@ -58,3 +58,6 @@
 **Tomcat源码系列**	[http://toutiao.io/subjects/53054](http://toutiao.io/subjects/53054)
 
 **生活中的Paxos，原来你我都在使用——对Paxos生活化的解读**	[http://hedengcheng.com/?p=970](http://hedengcheng.com/?p=970)
+
+### 2016-05-18
+**你应当知道的Java牛人 v2.0**		[http://www.importnew.com/5575.html](http://www.importnew.com/5575.html)
