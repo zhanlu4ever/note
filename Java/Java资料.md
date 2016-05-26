@@ -64,3 +64,9 @@
 
 ### 2016-05-24
 **Java StringBuilder和StringBuffer源码分析**		[http://www.codeceo.com/article/java-stringbuilder-stringbuffer.html](http://www.codeceo.com/article/java-stringbuilder-stringbuffer.html)
+
+**JAVA程序员一定知道的优秀第三方库（2016版）**		[http://www.kuqin.com/shuoit/20160513/352031.html](http://www.kuqin.com/shuoit/20160513/352031.html)
+
+**趣文：我是一个 Java class**		[http://blog.jobbole.com/101114/](http://blog.jobbole.com/101114/)
+
+**什么是设计模式？**	[http://blog.jobbole.com/101076/](http://blog.jobbole.com/101076/)
