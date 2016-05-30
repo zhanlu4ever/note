@@ -70,3 +70,27 @@
 **趣文：我是一个 Java class**		[http://blog.jobbole.com/101114/](http://blog.jobbole.com/101114/)
 
 **什么是设计模式？**	[http://blog.jobbole.com/101076/](http://blog.jobbole.com/101076/)
+
+### 2016-05-27
+**Java集合框架源码剖析：HashSet 和 HashMap**	[http://blog.jobbole.com/101493/](http://blog.jobbole.com/101493/)
+
+**Java异常的深入研究与分析**	[http://www.codeceo.com/article/java-exception-learn.html](http://www.codeceo.com/article/java-exception-learn.html)
+
+**Java性能优化全攻略**	[http://www.kuqin.com/shuoit/20160517/352063.html](http://www.kuqin.com/shuoit/20160517/352063.html)
+
+**JAVA里的协程**		[https://blog.maxleap.cn/archives/816](https://blog.maxleap.cn/archives/816)
+
+**BSON格式解释**	[http://www.importnew.com/19863.html](http://www.importnew.com/19863.html)
+
+**阿里巴巴分布式消息系统的演进之路**	[http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597255&idx=1&sn=b55e3f15f4b250590dc679108cc42e4f&scene=2&srcid=0525AbyucXSA15l1ypcmbtmM&from=timeline&isappinstalled=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597255&idx=1&sn=b55e3f15f4b250590dc679108cc42e4f&scene=2&srcid=0525AbyucXSA15l1ypcmbtmM&from=timeline&isappinstalled=0#wechat_redirect)
+
+**Apache Flink 源码剖析（一）** [http://toutiao.io/subjects/14702](http://toutiao.io/subjects/14702)
+
+### 2016-05-30
+**开发者头条——Tomcat源码系列**		[http://toutiao.io/subjects/53054](http://toutiao.io/subjects/53054)
+
+**深入理解DIP、IoC、DI以及IoC容器**	[http://www.cnblogs.com/liuhaorain/p/3747470.html](http://www.cnblogs.com/liuhaorain/p/3747470.html)
+
+**一步一步理解 Java 企业级应用的可扩展性**	[http://www.codeceo.com/article/java-enterprise-app.html](http://www.codeceo.com/article/java-enterprise-app.html)
+
+**Java Web技术经验总结（三）**		[http://www.jianshu.com/p/5d125e7ca308](http://www.jianshu.com/p/5d125e7ca308)

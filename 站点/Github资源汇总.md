@@ -9,3 +9,5 @@
 **稀土**		[https://github.com/xitu](https://github.com/xitu)
 
 **python解析protobuf**	[https://github.com/appnexus/pyrobuf](https://github.com/appnexus/pyrobuf)
+
+**Python图表绘制**	[https://github.com/Dfenestrator/GooPyCharts/blob/master/README.md](https://github.com/Dfenestrator/GooPyCharts/blob/master/README.md)
