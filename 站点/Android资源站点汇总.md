@@ -95,8 +95,12 @@
 
 [http://gityuan.com/](http://gityuan.com/)
 
+[http://www.cnblogs.com/mengdd/](http://www.cnblogs.com/mengdd/)
+
 ## 酷站
 
 **Android梦想特工队**	[http://www.wxtlife.com/archives/](http://www.wxtlife.com/archives/)
 
 [http://blog.cwzyzl.cn/](http://blog.cwzyzl.cn/)
+
+**Android博客周刊**		[http://www.androidblog.cn/](http://www.androidblog.cn/)
