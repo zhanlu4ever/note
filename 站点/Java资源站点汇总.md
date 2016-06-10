@@ -7,6 +7,8 @@
 
 *葛一鸣 讲师,多线程 JVM底层文章*	[http://www.uucode.net/](http://www.uucode.net/)
 
+**腾讯开发者——兰亭风雨(虚拟机文章)**		[http://blog.csdn.net/ns_code/article/details/18076173](http://blog.csdn.net/ns_code/article/details/18076173)
+
 *乒乓狂魔---携程JavaEE开发者*	
 
 [http://lgbolgger.iteye.com/](http://lgbolgger.iteye.com/)
@@ -16,6 +18,8 @@
 *斩秋--zk原理--dubbo原理等*	[http://blog.csdn.net/quhongwei_zhanqiu](http://blog.csdn.net/quhongwei_zhanqiu)
 
 *一些Java后端,不错的技术文章*	[http://www.jasongj.com/](http://www.jasongj.com/)
+
+**舒の随想日记**	[http://blog.hesey.net/](http://blog.hesey.net/)
 
 ## 淘宝系牛人
 *阿里正祥*	[http://blog.sina.com.cn/kern0612](http://blog.sina.com.cn/kern0612)

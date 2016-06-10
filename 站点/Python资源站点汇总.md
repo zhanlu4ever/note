@@ -49,3 +49,5 @@
 [http://www.pylist.com/](http://www.pylist.com/)
 
 [http://www.cnpythoner.com/](http://www.cnpythoner.com/)
+
+[http://rfyiamcool.blog.51cto.com/](http://rfyiamcool.blog.51cto.com/)

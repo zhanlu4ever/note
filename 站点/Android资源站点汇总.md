@@ -104,3 +104,8 @@
 [http://blog.cwzyzl.cn/](http://blog.cwzyzl.cn/)
 
 **Android博客周刊**		[http://www.androidblog.cn/](http://www.androidblog.cn/)
+
+
+**唐巧-IOS开发者**	[http://blog.devtang.com/](http://blog.devtang.com/)
+
+**开发者个人资料页**	[https://github.com/ipader/SwiftGuide/wiki/%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E9%A1%B5](https://github.com/ipader/SwiftGuide/wiki/%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E9%A1%B5)

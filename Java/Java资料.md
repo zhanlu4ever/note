@@ -135,3 +135,34 @@
 **Java集合框架源码剖析：LinkedHashSet 和 LinkedHashMap**	[http://blog.jobbole.com/101724/](http://blog.jobbole.com/101724/)
 
 **Java ArrayList源码剖析**	[http://www.cnblogs.com/CarpenterLee/p/5419880.html](http://www.cnblogs.com/CarpenterLee/p/5419880.html)
+
+### 2016-06-08
+**浅析若干Java序列化工具**		[http://www.importnew.com/20125.html](http://www.importnew.com/20125.html)
+
+**微服务即演进式架构**		[http://insights.thoughtworkers.org/microservices-evolutionary-architecture/](http://insights.thoughtworkers.org/microservices-evolutionary-architecture/)
+
+**分布式锁（1）：Java 常用技术方案**	[http://www.cnblogs.com/PurpleDream/p/5559352.html](http://www.cnblogs.com/PurpleDream/p/5559352.html)
+
+**秒杀系统架构优化思路**	[http://www.kuqin.com/shuoit/20160505/351882.html](http://www.kuqin.com/shuoit/20160505/351882.html)
+
+**我们是如何使用NSQ处理7500亿消息的**	[http://www.jointforce.com/jfperiodical/article/1949](http://www.jointforce.com/jfperiodical/article/1949)
+
+**java提高篇之详解内部类**		[http://www.cnblogs.com/chenssy/p/3388487.html](http://www.cnblogs.com/chenssy/p/3388487.html)
+
+**北美码农**		[https://zhuanlan.zhihu.com/baozipu](https://zhuanlan.zhihu.com/baozipu)
+
+**JGit新手指南**		[http://www.importnew.com/19970.html](http://www.importnew.com/19970.html)
+
+**在应用中嵌入Tomcat**	[http://www.importnew.com/19958.html](http://www.importnew.com/19958.html)
+
+**RESTful API 编写指南**		[http://blog.igevin.info/posts/restful-api-get-started-to-write/](http://blog.igevin.info/posts/restful-api-get-started-to-write/)
+
+**深入理解Paxos算法(一)**		[http://www.chongh.wiki/blog/2016/04/28/understand-paxos1/](http://www.chongh.wiki/blog/2016/04/28/understand-paxos1/)
+
+**深入理解Paxos算法(二)**		[http://www.chongh.wiki/blog/2016/04/29/understand-paxos2/](http://www.chongh.wiki/blog/2016/04/29/understand-paxos2/)
+
+**java提高篇(四)-----理解java的三大特性之多态**		[http://www.cnblogs.com/chenssy/p/3372798.html](http://www.cnblogs.com/chenssy/p/3372798.html)
+
+**motan源码阅读**	[http://leaver.me/](http://leaver.me/)
+
+**Java反射获取类和对象信息全解析**		[http://www.codeceo.com/article/java-reflactor.html](http://www.codeceo.com/article/java-reflactor.html)

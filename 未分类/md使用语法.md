@@ -47,3 +47,11 @@ System.out.println("hello md");
 `
 
 [https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown](https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown)
+
+[http://www.jianshu.com/p/1e402922ee32/](http://www.jianshu.com/p/1e402922ee32/)
+
+[http://www.appinn.com/markdown/](http://www.appinn.com/markdown/)
+
+[http://www.ituring.com.cn/article/504](http://www.ituring.com.cn/article/504)
+
+[http://www.jianshu.com/p/21d355525bdf](http://www.jianshu.com/p/21d355525bdf)
