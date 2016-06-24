@@ -8,3 +8,12 @@
 
 ---
 
+### 常用设置
+* 构建maven时特别慢，设置maven的VM Options加上-DarchetypeCatalog=internal参数
+* 
+
+### 快捷键
+* 自动补全变量类型   ctrl+alt+v
+* 自动覆盖接口方法	alt+enter
+* 补全当前行		ctrl+shift+enter
+* 自动代码提示	ctrl+shift+space
