@@ -7,10 +7,18 @@
 ---
 
 ## 具体代码实现
-	// 调用处
-	static {
-    	URL.setURLStreamHandlerFactory(new ConfigurableURLStreamHandlerFactory());
-  	}
+	// 测试
+	public class TestClass1 {
+		// 若不加载此处调用将无法加载xml文件
+	    static{
+	        URL.setURLStreamHandlerFactory(new ConfigurableURLStreamHandlerFactory());
+	    }
+	
+	    public static void main(String[] args) throws MalformedURLException {
+	        URL url = new URL(SystemPropertyUtils.resolvePlaceholders("classpath:beans.xml"));
+	        System.out.println(url);
+	    }
+	}
 
 ---
 
