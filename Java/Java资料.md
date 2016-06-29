@@ -169,3 +169,17 @@
 
 ### 2016-06-27
 **Java提高篇（二七）-----TreeMap**	[http://blog.csdn.net/chenssy/article/details/26668941](http://blog.csdn.net/chenssy/article/details/26668941)
+
+**使用方法拦截器MethodInterceptor和AOP统一处理log**	[http://blog.csdn.net/clementad/article/details/46474881](http://blog.csdn.net/clementad/article/details/46474881)
+
+**跟我一起学Load Balance（2） **	[http://blog.chinaunix.net/uid-23629988-id-3324539.html](http://blog.chinaunix.net/uid-23629988-id-3324539.html)
+
+**分布式系统Failover测试框架的实现**	[http://www.open-open.com/lib/view/open1426302208701.html](http://www.open-open.com/lib/view/open1426302208701.html)
+
+**Round Robin 概念理解**		[http://blog.csdn.net/pzw_0612/article/details/47357221](http://blog.csdn.net/pzw_0612/article/details/47357221)
+
+**微服务实践（七）：从单体式架构迁移到微服务架构**	[http://dockone.io/article/1266](http://dockone.io/article/1266)
+
+**JDOM 操作XML**		[http://www.cnblogs.com/hoojo/archive/2011/08/11/2134638.html](http://www.cnblogs.com/hoojo/archive/2011/08/11/2134638.html)
+
+**rpc框架之HA/负载均衡构架设计**	[http://www.cnblogs.com/yjmyzz/p/rpc-load-balance-design.html](http://www.cnblogs.com/yjmyzz/p/rpc-load-balance-design.html)

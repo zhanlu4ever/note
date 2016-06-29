@@ -8,6 +8,16 @@
 
 **稀土**		[https://github.com/xitu](https://github.com/xitu)
 
+**微信**		[https://github.com/tencent-wechat](https://github.com/tencent-wechat)
+
+**LinkedIn**	[https://github.com/linkedin](https://github.com/linkedin)
+
+**NAVER**	[https://github.com/naver](https://github.com/naver)
+
+**豆瓣**		[https://github.com/douban](https://github.com/douban)
+
+**小米**		[https://github.com/xiaomi](https://github.com/xiaomi)
+
 **python解析protobuf**	[https://github.com/appnexus/pyrobuf](https://github.com/appnexus/pyrobuf)
 
 **Python图表绘制**	[https://github.com/Dfenestrator/GooPyCharts/blob/master/README.md](https://github.com/Dfenestrator/GooPyCharts/blob/master/README.md)

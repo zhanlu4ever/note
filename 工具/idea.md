@@ -20,3 +20,4 @@
 * 补全当前行		ctrl+shift+enter
 * 自动代码提示	ctrl+shift+space
 * 生成getter和setter以及构造函数		alt+insert
+* 选定代码块生成try块		ctrl+alt+t
