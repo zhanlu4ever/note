@@ -183,3 +183,12 @@
 **JDOM 操作XML**		[http://www.cnblogs.com/hoojo/archive/2011/08/11/2134638.html](http://www.cnblogs.com/hoojo/archive/2011/08/11/2134638.html)
 
 **rpc框架之HA/负载均衡构架设计**	[http://www.cnblogs.com/yjmyzz/p/rpc-load-balance-design.html](http://www.cnblogs.com/yjmyzz/p/rpc-load-balance-design.html)
+
+### 2016-06-29
+**jdk-logging、log4j、logback日志介绍及原理**		[http://blog.jobbole.com/102976/](http://blog.jobbole.com/102976/)
+
+**褚霸：阿里开源四部曲，从拥抱到回报**		[https://yq.aliyun.com/articles/56821](https://yq.aliyun.com/articles/56821)
+
+**聊聊同步、异步、阻塞与非阻塞(不错)**	[http://my.oschina.net/xianggao/blog/661085](http://my.oschina.net/xianggao/blog/661085)
+
+**一步步带你，如何网站架构**	[http://blog.jobbole.com/102936/](http://blog.jobbole.com/102936/)
