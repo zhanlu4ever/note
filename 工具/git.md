@@ -11,3 +11,20 @@
 > git diff branch-name origin/master
 
 > git diff branch-name origin/master --color > D:/diff.txt
+
+## 2.git 配置
+* 查看git配置
+	> git config --list
+* 配置git用户名和email
+	> git config --global user.name xyz
+
+	> git config --global user.email xyz@xyz.com
+
+## 3.生成ssh密钥
+> ssh-keygen -t rsa -C "xyz@zyx.com"
+
+## 4.显示某文件的修改历史
+> git log --pretty=oneline file_name
+
+## 5.查看某一次提交的修改
+> git show 7939cdbff8d7622167c3708e9d9a182ff301422d 
