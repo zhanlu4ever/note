@@ -20,6 +20,10 @@
   ![](http://i.imgur.com/Sfg8i3f.jpg)
 * 显示行号
   ![](http://i.imgur.com/OmSAQaN.jpg)
+* 指定mavenhome打包编译
+	> -Dmaven.multiModuleProjectDirectory=$MAVEN_HOME
+
+	![](http://i.imgur.com/S94ceYW.jpg)
 
 ### 快捷键
 * 自动补全变量类型   ctrl+alt+v
@@ -30,3 +34,11 @@
 * 选定代码块生成try块		ctrl+alt+t
 * 查看方法参数说明		ctrl+p
 * 查看 API说明文档		ctrl+Q
+* 查找类文件				Ctrl+Shift+N
+* 查找类					ctrl+n
+* 查找方法被调用处		ctrl+alt+h
+* 大小写转换				ctrl+shift+u
+* 跳到多少行				ctrl+g
+* 上下移动代码			ctrl+shift+上下键
+* 在方法之间切换			alt+上下键
+* 查找类中方法			ctrl+shift+alt+n

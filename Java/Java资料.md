@@ -192,3 +192,12 @@
 **聊聊同步、异步、阻塞与非阻塞(不错)**	[http://my.oschina.net/xianggao/blog/661085](http://my.oschina.net/xianggao/blog/661085)
 
 **一步步带你，如何网站架构**	[http://blog.jobbole.com/102936/](http://blog.jobbole.com/102936/)
+
+### 2016-07-07
+**聊聊Linux 五种IO模型**	[http://www.importnew.com/20407.html](http://www.importnew.com/20407.html)
+
+**红黑树探索**	[http://blog.jobbole.com/103045/](http://blog.jobbole.com/103045/)
+
+**设计消息中间件时我关心什么?(解密电商数据一致性与完整性实现,含PPT)**		[http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547492&idx=1&sn=be78ff0389fd5a8d8991abc567a191e2&scene=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547492&idx=1&sn=be78ff0389fd5a8d8991abc567a191e2&scene=0#wechat_redirect)
+
+**消息队列设计精要**		[http://tech.meituan.com/mq-design.html](http://tech.meituan.com/mq-design.html)
