@@ -5,6 +5,8 @@
 
 **看日记学git by Linux 大棚**	[http://roclinux.cn/?page_id=3775](http://roclinux.cn/?page_id=3775)
 
+**闯过这 54 关，点亮你的 Git 技能树**	[http://www.kuqin.com/shuoit/20160105/349807.html](http://www.kuqin.com/shuoit/20160105/349807.html)
+
 ---
 
 ## 1.git分支和master对比

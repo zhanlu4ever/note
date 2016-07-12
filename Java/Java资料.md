@@ -201,3 +201,18 @@
 **设计消息中间件时我关心什么?(解密电商数据一致性与完整性实现,含PPT)**		[http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547492&idx=1&sn=be78ff0389fd5a8d8991abc567a191e2&scene=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547492&idx=1&sn=be78ff0389fd5a8d8991abc567a191e2&scene=0#wechat_redirect)
 
 **消息队列设计精要**		[http://tech.meituan.com/mq-design.html](http://tech.meituan.com/mq-design.html)
+
+### 2016-07-10
+**开发者头条——架构之美**	[http://toutiao.io/subjects/42200](http://toutiao.io/subjects/42200)
+
+**在下函数式编程有何贵干**		[https://segmentfault.com/a/1190000005898817](https://segmentfault.com/a/1190000005898817)
+
+**重构的那些事儿**	[http://www.techug.com/reconfiguration](http://www.techug.com/reconfiguration)
+
+**Java中的JIT机制对运行速度的优化**	[http://www.importnew.com/20575.html](http://www.importnew.com/20575.html)
+
+**Java数据结构**	
+
+[http://blog.csdn.net/column/details/datastructure.html](http://blog.csdn.net/column/details/datastructure.html)
+
+[http://blog.csdn.net/luoweifu/article/details/46766799](http://blog.csdn.net/luoweifu/article/details/46766799)
